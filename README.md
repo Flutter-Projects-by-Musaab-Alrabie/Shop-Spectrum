@@ -43,7 +43,6 @@ Shop-Spectrum is a sleek and intuitive Flutter e-commerce application that allow
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-0088CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SharedPreferences-4CAF50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge" />
 
 </div>
@@ -101,10 +100,6 @@ flutter run
 - ☁️ Cloud backup support
 - 📌 Wishlist management
 - 🖼️ Product images carousel
-
-### 🤝 Contribution
-
-- Contributions are welcome!
 
 ## 🤝 Contribution
 
